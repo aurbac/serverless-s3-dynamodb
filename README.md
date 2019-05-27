@@ -25,9 +25,9 @@ serverless create --template aws-python --path serverless-s3-dynamodb
 cd serverless-s3-dynamodb
 ```
 
-Replace your **handler.py** with the following file [handler.py](handler.py).
+Replace your **handler.py** with the file [handler.py](handler.py).
 
-Replace your **serverless.yml** with the following file [serverless.yml](serverless.yml), change the **bucketName** with your own alias name.
+Replace your **serverless.yml** with the file [serverless.yml](serverless.yml), change the **bucketName** with your own alias name.
 
 ## Deploy your Serverless project
 
